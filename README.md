@@ -37,8 +37,8 @@ I help small and medium-sized businesses automate repetitive tasks, streamline o
 ---
 
 ### 📫 Let’s Connect
-- 🔗 [LinkedIn](https://www.linkedin.com/) *(Insert your link)*
-- 📬 [Email](mailto:your@email.com) *(Insert your email)*
+
+- 📬 [Email](jmsaulution@email.com) *(Insert your email)*
 - 🌐 Portfolio: *Coming soon*
 
 ---
