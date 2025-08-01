@@ -9,6 +9,7 @@ I help small and medium-sized businesses automate repetitive tasks, streamline o
 - 🤖 Integrate apps and tools with no-code & low-code platforms
 - 🛠️ Set up backend automation for CRM, marketing, customer support, and more
 - 📊 Automate reports, data sync, and notifications across systems
+- website  development
 
 ---
 
