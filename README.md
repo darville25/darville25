@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Darville — Automation Specialist for Small Businesses
+# 👋 Hi, I'm joseph M — Automation Specialist for Small Businesses
 
 I help small and medium-sized businesses automate repetitive tasks, streamline operations, and scale faster using smart tools like **Make.com**, **Zapier**, **ChatGPT**, and custom integrations.
 
